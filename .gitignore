@@ -1,0 +1,6 @@
+# Never commit source call records
+data/
+*.csv
+*.xlsx
+*.ipynb_checkpoints/
+.DS_Store
