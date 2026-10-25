@@ -18,13 +18,6 @@ Reconciles a month of telecom call records from two independent sources: an inte
    - **Set 2:** match on callee number + call duration
    - **Set 3:** Set 2 plus the time difference between the two systems' call start times
 
-Full methodology and walkthrough → [Notion page](ADD_NOTION_LINK_HERE)
-
-## Key Findings
-
-- _Add your headline match rates for Sets 1–3 here_
-- _Add what the time-difference distribution in Set 3 showed_
-
 ## How to Run
 
 1. Place the two input files in a `data/` folder as `lcl_june_2025.csv` and `cdr_june_2025.csv`.
